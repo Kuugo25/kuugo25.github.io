@@ -4,7 +4,7 @@ Passionate about using machine learning, statistical modelling, and data analyti
 
 ---
 
-## Education
+## 🎓 Education
 
 **Queen Mary University of London (QMUL)**  
 *MSc Data Science & Artificial Intelligence | 2024 – 2025*  
@@ -18,7 +18,8 @@ Passionate about using machine learning, statistical modelling, and data analyti
 - Skills: R, Experimental Design, Hypothesis Testing  
 
 ---
-## Technical Skills
+
+## 🛠 Technical Skills
 
 - **Languages:** Python, R, SQL  
 - **Libraries & Tools:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, PyTorch, Tidyverse  
@@ -29,30 +30,26 @@ Passionate about using machine learning, statistical modelling, and data analyti
 
 ---
 
-## Featured Projects
+## 📁 Featured Projects
 
-### Predicting Truth and Lies from Audio Data 🔗 [GitHub Repository](https://github.com/Kuugo25/deception-detection-audio-ml)
-- Built an ML pipeline to classify spoken stories as true or false using extracted acoustic features.
-- Compared models (Logistic Regression, k-NN, SVM, Decision Trees) using GridSearchCV and ensemble methods (Random Forest, Gradient Boosting).
-- Used 5-fold cross-validation and soft voting to improve accuracy and generalization.
+### 🎙 [Predicting Truth and Lies from Audio Data](https://github.com/Kuugo25/deception-detection-audio-ml)
+- Built a machine learning pipeline to classify spoken stories as true or false using acoustic features extracted from audio files.
+- Trained and compared models (Logistic Regression, k-NN, SVM, Decision Trees) using GridSearchCV and ensemble methods (Random Forest, Gradient Boosting).
+- Applied 5-fold cross-validation and used soft voting to improve classification accuracy.
 
-### 🖼 CIFAR-10 Image Classification with Deep CNNs (PyTorch) 🔗 [GitHub Repository](https://github.com/Kuugo25/cifar10-deep-cnn)
-- Designed and implemented a deep convolutional neural network from scratch, featuring **six intermediate adaptive blocks** with learned feature weighting.
-- Used **channel-wise attention mechanisms** to combine convolutional outputs dynamically, enhancing model expressivity.
-- Applied strong regularization (dropout, batch normalization), data augmentation, cosine learning rate scheduling, and SGD with momentum.
-- Achieved a **test accuracy of 92.42%** on CIFAR-10, surpassing standard architectures through architectural tuning and training optimization.
+### 🧠 [CIFAR-10 Image Classification with Deep CNNs (PyTorch)](https://github.com/Kuugo25/cifar10-deep-cnn)
+- Designed and implemented a custom CNN with six intermediate adaptive blocks and learned feature weighting via attention mechanisms.
+- Applied regularization techniques (dropout, batch normalization), data augmentation, cosine annealing, and SGD with momentum.
+- Achieved **92.42% test accuracy** on CIFAR-10 through architectural tuning and optimization.
 
-### SUPREME Video Game Search Engine (Information Retrieval System) 🔗 [GitHub Repository](https://github.com/Gitbyt3/SUPREME-Video-Game-Search-Engine)
-- Developed a modular search engine using **BM25**, **SBERT + FAISS**, and **LambdaMART** for Learning-to-Rank.
-- Implemented full **query processing** (normalization, parsing, expansion, intent detection) and **hybrid candidate retrieval**.
-- Designed a **web-based interface** with a Python backend, returning Top-K ranked games based on query intent and user behavior.
-- Conducted manual labeling for 100 sample queries and evaluated with **mAP, NDCG@10, MRR, E-measure** (mAP = 0.7633, NDCG@10 = 0.8995).
-- Addressed runtime, tuning, and semantic challenges with efficient scoring and semantic embedding techniques.  
-
+### 🎮 [SUPREME Video Game Search Engine (IR System)](https://github.com/Gitbyt3/SUPREME-Video-Game-Search-Engine)
+- Developed a modular IR system using **BM25**, **SBERT + FAISS**, and **LambdaMART** for learning-to-rank.
+- Implemented complete **query processing**, hybrid retrieval, intent detection, and user-based ranking signal boosts.
+- Delivered strong evaluation results: mAP = 0.7633, NDCG@10 = 0.8995, MRR = 0.8222 across 100+ labeled queries.
 
 ---
 
-## Languages
+## 🌐 Languages
 
 - **Fluent:** English, Mandarin, Malay  
 - **Conversational:** Japanese  
@@ -60,13 +57,12 @@ Passionate about using machine learning, statistical modelling, and data analyti
 
 ---
 
-## Get in Touch
+## 📫 Get in Touch
 
 - 📍 London, UK  
 - 📧 jasontanjs25@gmail.com  
 - 📱 +44 7849 369484  
-- 💼 [LinkedIn](#) *(add your profile link)*  
-- 🌐 [Portfolio Website](#) *(optional)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jason-tan-339b3b34a/)  
 
 ---
 
