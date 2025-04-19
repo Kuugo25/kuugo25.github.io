@@ -36,10 +36,11 @@ Passionate about using machine learning, statistical modelling, and data analyti
 - Compared models (Logistic Regression, k-NN, SVM, Decision Trees) using GridSearchCV and ensemble methods (Random Forest, Gradient Boosting).
 - Used 5-fold cross-validation and soft voting to improve accuracy and generalization.
 
-### CIFAR-10 Image Classification with PyTorch
-- Designed a custom CNN architecture with multi-block layers and learned convolutional weights.
-- Achieved **92% test accuracy** using batch normalization, dropout, and learning rate scheduling.
-- Built the network entirely from scratch using PyTorch.
+### 🖼 CIFAR-10 Image Classification with Deep CNNs (PyTorch)
+- Designed and implemented a deep convolutional neural network from scratch, featuring **six intermediate adaptive blocks** with learned feature weighting.
+- Used **channel-wise attention mechanisms** to combine convolutional outputs dynamically, enhancing model expressivity.
+- Applied strong regularization (dropout, batch normalization), data augmentation, cosine learning rate scheduling, and SGD with momentum.
+- Achieved a **test accuracy of 92.42%** on CIFAR-10, surpassing standard architectures through architectural tuning and training optimization.
 
 ### SUPREME: Video Game Search Engine (Information Retrieval System)
 - Developed a modular search engine using **BM25**, **SBERT + FAISS**, and **LambdaMART** for Learning-to-Rank.
@@ -48,14 +49,6 @@ Passionate about using machine learning, statistical modelling, and data analyti
 - Conducted manual labeling for 100 sample queries and evaluated with **mAP, NDCG@10, MRR, E-measure** (mAP = 0.7633, NDCG@10 = 0.8995).
 - Addressed runtime, tuning, and semantic challenges with efficient scoring and semantic embedding techniques.  
 🔗 [GitHub Repository](https://github.com/Gitbyt3/SUPREME-Video-Game-Search-Engine)
-
----
-
-## Research Interests
-
-- Explainable AI and ethical algorithm design
-- Audio and image-based ML applications
-- Decision science and data-driven optimization
 
 ---
 
