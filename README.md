@@ -1,11 +1,23 @@
 # Jason Tan
 
-MSc Data Science & Artificial Intelligence candidate at Queen Mary University of London, en route to distinction.  
-Background in Psychology (BSc, UCL) with a keen interest in combining human behavior insights with data-driven approaches.  
 Passionate about using machine learning, statistical modelling, and data analytics to solve real-world problems and optimize decision-making.
 
 ---
 
+## Education
+
+**Queen Mary University of London (QMUL)**  
+*MSc Data Science & Artificial Intelligence | 2024 – 2025*  
+- Expected Distinction  
+- Key Modules: Machine Learning, Neural Networks, Data Mining, Risk and Decision Making  
+- Skills: Python, Data Visualization, Statistical Modelling, Predictive Modelling  
+
+**University College London (UCL)**  
+*BSc (Hons) Psychology | 2:1 | 2021 – 2024*  
+- Key Modules: Applied Decision Making, Research Methods, Statistics, Brain and Behaviour  
+- Skills: R, Experimental Design, Hypothesis Testing  
+
+---
 ## Technical Skills
 
 - **Languages:** Python, R, SQL  
@@ -29,11 +41,18 @@ Passionate about using machine learning, statistical modelling, and data analyti
 - Achieved **92% test accuracy** using batch normalization, dropout, and learning rate scheduling.
 - Built the network entirely from scratch using PyTorch.
 
+### SUPREME: Video Game Search Engine (Information Retrieval System)
+- Developed a modular search engine using **BM25**, **SBERT + FAISS**, and **LambdaMART** for Learning-to-Rank.
+- Implemented full **query processing** (normalization, parsing, expansion, intent detection) and **hybrid candidate retrieval**.
+- Designed a **web-based interface** with a Python backend, returning Top-K ranked games based on query intent and user behavior.
+- Conducted manual labeling for 100 sample queries and evaluated with **mAP, NDCG@10, MRR, E-measure** (mAP = 0.7633, NDCG@10 = 0.8995).
+- Addressed runtime, tuning, and semantic challenges with efficient scoring and semantic embedding techniques.  
+🔗 [GitHub Repository](https://github.com/Gitbyt3/SUPREME-Video-Game-Search-Engine)
+
 ---
 
 ## Research Interests
 
-- Cognitive & behavioral insights in machine learning
 - Explainable AI and ethical algorithm design
 - Audio and image-based ML applications
 - Decision science and data-driven optimization
