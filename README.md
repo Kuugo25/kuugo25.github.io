@@ -8,7 +8,7 @@ Passionate about using machine learning, statistical modelling, and data analyti
 
 **Queen Mary University of London (QMUL)**  
 *MSc Data Science & Artificial Intelligence | 2024 – 2025*  
-- Expected Distinction  
+- Distinction
 - Key Modules: Machine Learning, Neural Networks, Data Mining, Risk and Decision Making  
 - Skills: Python, Data Visualization, Statistical Modelling, Predictive Modelling  
 
